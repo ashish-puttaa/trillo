@@ -78,7 +78,6 @@ body {
   @media only screen and (max-width: 31.25em) {
     .header {
       flex-wrap: wrap;
-      align-content: space-around;
       height: 12rem; } }
 
 .content {
